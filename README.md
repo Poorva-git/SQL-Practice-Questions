@@ -1,6 +1,6 @@
 # 🗄️ SQL Practice Questions
 
-A collection of **SQL practice questions and solutions** covering beginner to advanced concepts. This repository is part of my journey to strengthen SQL skills, improve problem-solving, and prepare for technical interviews.
+A collection of SQL practice questions and solutions covering beginner to advanced concepts. This repository showcases my journey of strengthening SQL skills, improving problem-solving, and preparing for technical interviews.
 
 ## 📚 Topics
 
@@ -15,11 +15,11 @@ A collection of **SQL practice questions and solutions** covering beginner to ad
 
 ## 🛠️ Tech Stack
 
-- MySQL
-- SQL
+- PostgreSQL
+- pgAdmin
 - Git
 - GitHub
 
 ---
 
-⭐ Consistently solving SQL problems to build strong database fundamentals and interview-ready skills.
+⭐ Consistently practicing SQL to build strong database fundamentals and interview-ready skills.
