@@ -1,4 +1,5 @@
--- Question:
--- Display all employee details.
+SELECT *
+FROM employee;
 
-SELECT * FROM employee;
+SELECT emp_name, salary
+FROM employee;
